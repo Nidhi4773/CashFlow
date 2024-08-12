@@ -16,7 +16,7 @@ Welcome to the **ATM Application**, a simple yet effective tool that simulates y
 Setting up this ATM application is as easy as 1-2-3!
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/atm-application.git
+   git clone  https://github.com/Nidhi4773/CashFlow.git
    ```
 
 2. **Navigate to the project directory**:
